@@ -74,7 +74,7 @@ Aqui estão os prompts usados para criar a identidade visual e o áudio com IA:
 
 Para sugestões de pauta ou parcerias:
 
-- [Seu LinkedIn](linkedin.com/in/campelogabriell/)
+- [Linkedin](linkedin.com/in/campelogabriell/)
 
 ---
 
