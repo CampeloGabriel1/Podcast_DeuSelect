@@ -1,0 +1,84 @@
+[Abertura – Tom animado e convidativo]
+
+(Trilha leve de fundo – som de teclado ou terminal executando)
+
+Host (tom animado, sorrindo):
+
+"Fala pessoal! 👋
+Seja muito bem-vindo ao episódio piloto... do Deu Select! 🎉
+O podcast feito pra quem vive, respira... e às vezes... sofre... com SQL e PL/SQL no dia a dia."
+
+[Pausa curta – risadinha leve no tom de voz]
+
+"Se você trabalha com banco de dados...
+Desenvolve queries todo santo dia...
+Ou tá de olho naquelas vagas que pedem SQL ou PL/SQL...
+Esse espaço aqui... é pra você!"
+
+[Transição – Tom mais pessoal e de conversa]
+
+"Antes de mais nada... deixa eu me apresentar rapidinho:
+Meu nome é [Seu Nome]...
+Sou [Sua profissão, exemplo: 'desenvolvedor de banco de dados', 'DBA', 'analista de dados']...
+E já tenho aí... uns bons anos de experiência lidando com SQL, PL/SQL...
+E... claro... com todos aqueles pepinos... que só quem trabalha com dados conhece bem."
+
+[Tom descontraído, storytelling leve:]
+
+"Pra você ter uma ideia...
+Teve uma vez que eu passei horas tentando entender porque uma simples query...
+Estava demorando mais que o normal...
+E adivinha?
+Era um simples índice... que alguém... esqueceu de criar!
+Então... se você já passou por isso...
+Saiba que aqui... você tá em casa."
+
+[Transição – Tom de expectativa e empolgação]
+
+"Agora... vamos ao que interessa:
+O que vai rolar por aqui... no Deu Select!?"
+
+[Listagem – Tom direto, objetivo e com ritmo de lista:]
+
+✔️ "Dicas práticas de SQL e PL/SQL – desde o básico... até otimizações avançadas"
+✔️ "Dicas de carreira – como se destacar nas vagas do mercado"
+✔️ "Erros comuns... que todo mundo já cometeu... e claro... como evitar"
+✔️ "Boas práticas pra escrever código limpo e performático"
+✔️ "Bate-papo com convidados... trazendo experiências de quem vive na área"
+✔️ "E claro... atualizações sobre mercado, salários... e tendências"
+
+[Transição – Tom de compromisso]
+
+"A ideia aqui é conteúdo direto ao ponto...
+Sem enrolação...
+E com muita coisa útil...
+Pra te ajudar de verdade."
+
+[Frequência de publicação – Tom de informação prática]
+
+"Então já fica sabendo:
+A ideia é ter um episódio novo...
+[Defina: toda semana? A cada 15 dias?]
+Sempre com temas que realmente façam sentido...
+Pra quem tá ali... no front... trabalhando com dados."
+
+[Call to Action – Tom de convite e engajamento]
+
+"E claro... já aproveita agora:
+Segue a gente no seu app de podcast favorito...
+Spotify, Deezer, Apple Podcasts...
+Onde você preferir."
+
+"Se quiser sugerir temas... mandar suas dúvidas...
+Ou até contar sua história com SQL...
+É só me procurar no Instagram ou LinkedIn...
+Os links estão aqui... na descrição desse episódio."
+
+[Encerramento – Tom de despedida, leve e com humor]
+
+"Esse foi só o começo...
+Então já sabe...
+Na dúvida... Deu Select! 😄
+Nos vemos no próximo episódio!"
+
+[Trilha final – fade out, com som de terminal executando ou beep leve]
